@@ -1,27 +1,31 @@
-Product,Target Quantity
-Milk - litres,3
-Eggs - Case of 20,0.5
-Cheese ,1
-Ham,1
-Grapes,1
-Jam,0.5
-Butter,0.25
-Bananas - Case,2
-Apples - Case,1
-Oranges - Case,1
-Bread - Loaf,2
-Pumpkin Seeds,0.5
-Porridge,0.5
-Pasta - Dry,1
-Pasta - Fresh,2
-Coffee - Jar,0.25
-Tea - Box,0.25
-Beans - Cans,1
-Rice - Pouch,1
-Spuds - Bag,1
-"Meat Packets - (Mince, Chops, etc.)",3
-Mixed Veg - Frozen,1
-Frozen Chicken - (Burgers / Nuggets / Etc.),1
-Fish - (Salmon or Packets),2
-Toothpaste,0.25
-Mouthwash,0.5
+Date Of Shopping,,,03/09/2026,10/09/2026,17/09/2026
+Product,Department,Target Quantity,,,
+Milk - litres,,3,3,3,3
+Eggs - Case of 20,,0.5,0,0,0
+Cheese ,,1,1,1,1
+Ham,,1,0,0,0
+Grapes,,1,1,1,1
+Jam,,0.5,0,0,0
+Butter,,0.25,0,0,0
+Bananas - Case,,2,1,1,1
+Apples - Case,,1,1,1,1
+Oranges - Case,,1,0,0,0
+Bread - Loaf,,2,1,1,1
+Pumpkin Seeds,,0.5,0,0,0
+Porridge,,0.5,0,0,0
+Pasta - Dry,,1,1,1,1
+Pasta - Fresh,,2,0,0,0
+Coffee - Jar,,0.25,1,1,1
+Tea - Box,,0.25,0,0,0
+Beans - Cans,,1,0,0,0
+Rice - Pouch,,1,0,0,0
+Spuds - Bag,,1,1,1,1
+"Meat Packets - (Mince, Chops, etc.)",,3,0,0,0
+Mixed Veg - Frozen,,1,1,1,1
+Frozen Chicken - (Burgers / Nuggets / Etc.),,1,0,0,0
+Fish - (Salmon or Packets),,2,3,3,3
+Toothpaste,,0.25,0,0,0
+Mouthwash,,0.5,0,0,0
+Sauce,,0.5,1,1,1
+Pasta Sauce,,1,1,1,1
+Strawberrys,,0,1,1,1

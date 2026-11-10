@@ -13,7 +13,8 @@ for i in range(len(details['Product'])): #initalises the products list from the 
 print(products)
 
 for i in range(len(details['Target Quantity'])):
-  target_quantities.append(float(details.iloc[i,1]))
+  if(float(details.iloc[i,1]).isna() == False): #Skips values where the target_quantities entry is empty. .isna() returns true if a number is in the value
+     target_quantities.append(float(details.iloc[i,1]))
 print(target_quantities)
 
 
