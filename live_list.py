@@ -2,7 +2,7 @@
 #Adapts to past data over time, by identifying if set target quantity < average, if so average is used, possible option for target quantity to be modified in settings menu??? Idea
 import pandas as pd
 import math
-details = pd.read_csv('stock_info.csv', header = 1) #due to dates being in row 1, the default header
+details = pd.read_csv('stock_info.csv') 
 def live_list():
     products = []
     averages = []

@@ -26,6 +26,9 @@ while(cont):
     if(selection == "2"):
         print("***************************")
         import live_list
+    if(selection == "3"):
+        print("***************************")
+        import enter_data
 
 print("*************")
 print("Program Terminated")
